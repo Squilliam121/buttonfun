@@ -27,6 +27,16 @@ button{
     cursor: pointer;
 }
 
+button:hover{
+    color: white;
+    background-color: rgb(46, 46, 46);
+}
+
+button:active{
+    color: white;
+    background-color: rgb(86, 86, 86);
+}
+
 #buttons{
     display: grid;
     grid-template-columns: repeat(2,1fr);
