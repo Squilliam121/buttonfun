@@ -28,13 +28,11 @@ button{
 }
 
 button:hover{
-    color: white;
-    background-color: rgb(46, 46, 46);
+    background-color: rgb(81, 81, 81);
 }
 
 button:active{
-    color: white;
-    background-color: rgb(86, 86, 86);
+    background-color: rgb(139, 139, 139);
 }
 
 #buttons{
